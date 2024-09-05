@@ -89,10 +89,6 @@ Make sure you have the following installed on your system:
    - If you choose **Yes**, the pop-up will close and you can select more buttons.
    - If you choose **No**, you will be logged out, and the name will be removed.
 
-## Logging Out
-
-To log out, simply click the **Logout** button. This will remove your name from local storage and redirect you to the home page.
-
 ## Error Handling
 
 - If you try to access the buttons page without entering your name, an error page will appear with a button to redirect you to the home page.
