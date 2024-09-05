@@ -25,7 +25,7 @@ Make sure you have the following installed on your system:
 1. Open your terminal and clone the repository:
 
    ```bash
-   git clone <repository-URL>
+   git clone https://github.com/Ananya-2304/NameCollector.git
    ```
 
 ## Installing Dependencies
@@ -96,4 +96,3 @@ To log out, simply click the **Logout** button. This will remove your name from 
 ## Error Handling
 
 - If you try to access the buttons page without entering your name, an error page will appear with a button to redirect you to the home page.
-```
